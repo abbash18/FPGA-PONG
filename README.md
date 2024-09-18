@@ -4,13 +4,13 @@
 
 GitHub Repository: [Pong on FPGA](https://github.com/username/Pong-FPGA)
 
-![IMG_2942.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/d4c43058-2ef0-4f23-aaa6-0c1fea79f2e6/IMG_2942.jpeg)
+![IMG_2942.jpeg]([https://prod-files-secure.s3.us-west-2.amazonaws.com/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/d4c43058-2ef0-4f23-aaa6-0c1fea79f2e6/IMG_2942.jpeg](https://file.notion.so/f/f/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/d4c43058-2ef0-4f23-aaa6-0c1fea79f2e6/IMG_2942.jpeg?table=block&id=1059e77b-5cfa-804d-8cf9-c3afab810515&spaceId=36f435f9-c7ed-4b9b-b7a8-34d997078d9c&expirationTimestamp=1726790400000&signature=sdAHP-Rhbgx_FMbc1RFQUHE0uakmVMmrllyojshr7s4&downloadName=IMG_2942.jpeg))
 
 This project involves the design and implementation of a fully functioning **Pong game** on an **FPGA**. By leveraging **VHDL** for hardware description, the game was developed to interact with a **VGA display**, where paddles and a ball respond to real-time inputs, demonstrating proficiency in digital logic design, hardware-software integration, and signal processing.
 
 ### Design Approach
 
-![Diagram of Design Flow from NANDLAND.com](https://prod-files-secure.s3.us-west-2.amazonaws.com/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/bcbb2e2f-68fd-4def-be2c-54a47715928f/Untitled.png)
+![Diagram of Design Flow from NANDLAND.com]([https://prod-files-secure.s3.us-west-2.amazonaws.com/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/bcbb2e2f-68fd-4def-be2c-54a47715928f/Untitled.png](https://file.notion.so/f/f/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/bcbb2e2f-68fd-4def-be2c-54a47715928f/Untitled.png?table=block&id=f91f2c26-1c45-4bac-bce3-7de87074ae92&spaceId=36f435f9-c7ed-4b9b-b7a8-34d997078d9c&expirationTimestamp=1726790400000&signature=_INnmj7R3NYIg1Mm2bTq-8wbYiHUC6sulC5LpPiBC-I&downloadName=Untitled.png))
 
 Diagram of Design Flow from NANDLAND.com
 
