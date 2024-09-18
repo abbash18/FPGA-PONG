@@ -2,7 +2,7 @@
 
 **Mar. 2024 – June 2024**
 
-![Uploading image.png…]()
+
 
 
 
@@ -11,6 +11,7 @@ This project involves the design and implementation of a fully functioning **Pon
 ### Design Approach
 
 ![image](https://github.com/user-attachments/assets/f1f849ba-07be-4a12-9d9c-ff8dbda6816a)
+
 
 Diagram of Design Flow from NANDLAND.com
 
