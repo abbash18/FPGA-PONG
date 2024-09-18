@@ -3,14 +3,13 @@
 **Mar. 2024 – June 2024**
 
 
-![IMG_2942.jpeg]()
+
 
 This project involves the design and implementation of a fully functioning **Pong game** on an **FPGA**. By leveraging **VHDL** for hardware description, the game was developed to interact with a **VGA display**, where paddles and a ball respond to real-time inputs, demonstrating proficiency in digital logic design, hardware-software integration, and signal processing.
 
 ### Design Approach
 
-![Diagram of Design Flow from NANDLAND.com](![image](https://github.com/user-attachments/assets/c4227f62-9aba-4b16-93e6-4cd815c70138)
-)
+![image](https://github.com/user-attachments/assets/f1f849ba-07be-4a12-9d9c-ff8dbda6816a)
 
 Diagram of Design Flow from NANDLAND.com
 
