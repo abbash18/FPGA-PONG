@@ -4,6 +4,7 @@
 
 
 
+![image](https://github.com/user-attachments/assets/82ffff55-e3fa-412d-8287-c499e3f1691a)
 
 
 This project involves the design and implementation of a fully functioning **Pong game** on an **FPGA**. By leveraging **VHDL** for hardware description, the game was developed to interact with a **VGA display**, where paddles and a ball respond to real-time inputs, demonstrating proficiency in digital logic design, hardware-software integration, and signal processing.
