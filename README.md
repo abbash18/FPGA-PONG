@@ -1,6 +1,6 @@
 ### Pong on FPGA | *VHDL, Digital Logic, VGA Signal, Embedded Systems*
 
-**Mar. 2024 – June 2024**
+**May. 2024 – June 2024**
 
 
 
