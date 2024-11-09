@@ -16,7 +16,7 @@ entity Ball_Ctrl is
         
         o_Ball_Draw : out std_logic; -- indicates if ball is drawn at given pixel
         o_Ball_X_Pos : out std_logic_vector(5 downto 0); --represents balls x position
-        o_Ball_Y_Pos : out std_logic_vector(5 downto 0); --represents balls y position
+        o_Ball_Y_Pos : out std_logic_vector(5 downto 0) --represents balls y position
         
     );
 end entity;
